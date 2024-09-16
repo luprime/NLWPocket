@@ -13,7 +13,7 @@ export function App() {
   })
   return (
     <Dialog>
-      {data?.total && data.total > 0 ? <Summary /> : <EmptyGoals />}
+      {data?.total && data.total > 13 ? <Summary /> : <EmptyGoals />}
 
       <CreateGoal />
     </Dialog>
