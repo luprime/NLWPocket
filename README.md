@@ -12,7 +12,7 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## 👨‍💻 Tecnologias
 
-- `React`
+- `ReactJS`
 - `CSS`
 - `Git` e `Github`
 - `TypeScript`
